@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/edsinvocarewhitelady/:/",
+    "/content/edsinvocarewhitelady/configuration:/.helix/config.json",
+    "/content/edsinvocarewhitelady/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/edsinvocarewhitelady/"
   ]
 }
